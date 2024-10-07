@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - The_Sea
+  - The_Old_Man
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - UI_Compass
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3565219107
+    locked: 0
+  - name: The_Sea
+    uniqueID: 2715701673
+    locked: 0
+  - name: The_Boat
+    uniqueID: 1198913233
+    locked: 0
+  - name: Tools & Weapons
+    uniqueID: 326893077
+    locked: 0
+  - name: The_Old_Man
+    uniqueID: 2632444883
+    locked: 0
